@@ -8,7 +8,7 @@ Utilizo o framework JSF, biblioteca Tailwind e por último, mas não menos impor
   - Java + Java Server Faces
   - Tailwind;
   - HTML e CSS;
-  - Conhecendo o JavaScript;
+  - Conhecendo o JavaScript.
 
 
 <img alt="Meus status" align="Left" witdth="47%" src="https://github-readme-stats.vercel.app/api?username=MaikRibeiro&theme=cobalt"/>
