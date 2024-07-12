@@ -1,7 +1,8 @@
 ### Bem vindo ao meu perfil👋
 
 <h3>Resumindo...</h3>
-<p>Entrei no mundo da programação há 1 ano, com o curso técnico Desenvolvimento de Sistemas e atualmente sou desenvolvedor Java Web Jr. Também estou cursando ADS.</p>
+<p>Entrei no mundo da programação há 1 ano e meio, com o curso técnico Desenvolvimento de Sistemas e atualmente sou desenvolvedor Java Web Jr. Também estou cursando o segundo semestre em ADS.</p>
+
 <p>Utilizo o framework JSF, biblioteca Tailwind e por último, mas não menos importante, JavaScript.</p>
 
 <h3>Principais habilidades:</h3>
