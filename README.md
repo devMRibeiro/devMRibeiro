@@ -16,4 +16,6 @@
 
 
 ## GitHub Stats📈
-<img alt="Top Linguagens" align="center" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikRibeiro&layout=compact&theme=cobalt" />
+<p>
+<img alt="Top Linguagens" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikRibeiro&layout=compact&theme=cobalt" />
+</p>
