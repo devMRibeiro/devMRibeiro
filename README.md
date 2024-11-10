@@ -1,19 +1,23 @@
-### Bem vindo ao meu perfil👋
+### Hi, I'm Michael👋
+<hr />
 
-<h3>Resumindo...</h3>
-<p>Entrei no mundo da programação há 1 ano e meio, com o curso técnico Desenvolvimento de Sistemas e atualmente sou desenvolvedor Java Web Jr. Também estou cursando o segundo semestre em ADS.</p>
+##About me🧑🏽‍💼
+<p>I'm a Junior Java Web Developer with experience in building scalable web applications. I started my programming journey over a year ago with a technical course in System Development, and I'm currently pursuing a degree in Systems Development.</p>
+<hr />
 
-<p>Utilizo o framework JSF, biblioteca Tailwind e por último, mas não menos importante, JavaScript.</p>
+##Professional Overview💻
+<p>I'm a Junior Java Web Developer, specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
+<hr />
 
-<h3>Principais habilidades:</h3>
+##Skills & Technologies🎯
 <ul>
-  <li>Java + Java Server Faces</li>
-  <li>Tailwind;</li>
-  <li>HTML e CSS;</li>
-  <li>Conhecendo o JavaScript.</li>
+  <li>Java | Spring Boot | Relational Databases</li>
+  <li>MVC Architecture</li>
+  <li>HTML | CSS | Tailwind | Javascript</li>
+  <li>SVN | Git | GitHub</li>
 </ul>
+<hr />
 
-<br />
 <br />
 <img alt="Meus status" align="Left" witdth="47%" src="https://github-readme-stats.vercel.app/api?username=MaikRibeiro&theme=highcontrast"/>
 <img alt="Top Linguagens" align="Left" witdth="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikRibeiro&layout=compact&theme=cobalt" />
