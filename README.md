@@ -1,4 +1,4 @@
-### Hi, I'm Michael👋
+# Hi, I'm Michael👋
 
 ## About me🧑🏽‍💼
 <p>I'm a Junior Java Web Developer with experience in building scalable web applications. I started my programming journey over a year ago with a technical course in System Development, and I'm currently pursuing a degree in Systems Development.</p>
