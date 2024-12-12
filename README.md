@@ -17,5 +17,5 @@
 
 ## GitHub Stats📈
 <p>
-<img alt="Top Linguagens" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikRibeiro&size_weight=0.5&count_weight=0.5&theme=highcontrast&show_owner=true&hide=css,html&layout=donut" />
+<img alt="Top Linguagens" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikRibeiro&size_weight=0&count_weight=1&theme=highcontrast&show_owner=true&hide=css,html&layout=donut" />
 </p>
