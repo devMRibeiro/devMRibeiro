@@ -11,7 +11,7 @@
   <li>Java | Spring Boot | Relational Databases</li>
   <li>MVC Architecture</li>
   <li>HTML | CSS | Tailwind | Javascript</li>
-  <li>GIT  | SVN |</li>
+  <li>GIT  | SVN </li>
 </ul>
 
 ## GitHub Stats📈
