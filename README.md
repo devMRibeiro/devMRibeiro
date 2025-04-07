@@ -1,7 +1,7 @@
 # Hi, I'm Michael👋
 
 ## About me🧑🏽‍💼
-<p>I'm a Junior Java Web Developer with experience in building web applications. I started my programming journey over a year ago with a technical course in System Development, and I'm currently pursuing a degree in Systems Development.</p>
+<p>I'm a Java Developer with experience in building web applications. I started my programming journey over a year ago with a technical course in System Development, and I'm currently pursuing a degree in Systems Development.</p>
 
 ## Professional Overview💻
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
