@@ -7,25 +7,57 @@
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
 
 ## Skills & Technologies🎯
+## Skills & Technologies 🎯
+
 ### 🖥️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /><br /><b>Java</b>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" /><br /><b>Spring Boot</b>&nbsp;&nbsp;
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="PostgreSQL" /><br /><b>PostgreSQL</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
+      <sub>Spring Boot</sub>
+    </td>
+    <td align="center">
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40" alt="PostgreSQL" /><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" /><br /><b>HTML</b>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" /><br /><b>CSS</b>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /><br /><b>JavaScript</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" /><br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" /><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🔧 Version Control
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /><br /><b>Git</b>&nbsp;&nbsp;
-  <img src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" height="30" alt="SVN" /><br /><b>SVN</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" height="40" alt="SVN" /><br/>
+      <sub>SVN</sub>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats📈
 <p>
