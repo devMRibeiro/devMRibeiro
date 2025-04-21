@@ -10,19 +10,13 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="Relational DB" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab/SVN" />
+  <img src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" height="30" alt="SVN" />
 </p>
-<ul>
-  <li>Java | Spring Boot | Relational Databases</li>
-  <li>MVC Architecture</li>
-  <li>HTML | CSS | Tailwind | Javascript</li>
-  <li>GIT  | SVN </li>
-</ul>
 
 ## GitHub Stats📈
 <p>
