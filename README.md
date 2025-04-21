@@ -1,12 +1,22 @@
 # Hi, I'm Michael👋
 
 ## About me🧑🏽‍💼
-<p>I'm a Java Developer with experience in building web applications. I started my programming journey over a year ago with a technical course in System Development, and I'm currently pursuing a degree in Systems Development.</p>
+<p>I'm a Java Developer who started my career a little over a year ago. I'm currently pursuing a degree in Systems Analysis and Development and working professionally with Java. Most of my time is dedicated to studying Spring Boot and exploring how to create my own libraries. I value writing clean, readable code and building applications with a well-structured architecture.</p>
 
 ## Professional Overview💻
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
 
 ## Skills & Technologies🎯
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="Relational DB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab/SVN" />
+</p>
 <ul>
   <li>Java | Spring Boot | Relational Databases</li>
   <li>MVC Architecture</li>
