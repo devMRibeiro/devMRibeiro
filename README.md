@@ -7,15 +7,24 @@
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
 
 ## Skills & Technologies🎯
+### 🖥️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" height="30" alt="SVN" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> <b>Java</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" /> <b>Spring Boot</b>&nbsp;&nbsp;
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="PostgreSQL" /> <b>PostgreSQL</b>
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" /> <b>HTML</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" /> <b>CSS</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> <b>JavaScript</b>
+</p>
+
+### 🔧 Version Control
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> <b>Git</b>&nbsp;&nbsp;
+  <img src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" height="30" alt="SVN" /> <b>SVN</b>
 </p>
 
 ## GitHub Stats📈
