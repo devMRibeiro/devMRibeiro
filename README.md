@@ -7,8 +7,6 @@
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
 
 ## Skills & Technologies🎯
-## Skills & Technologies 🎯
-
 ### 🖥️ Backend
 <table>
   <tr>
