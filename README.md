@@ -1,7 +1,7 @@
 # Hi, I'm Michael👋
 
 ## About me🧑🏽‍💼
-<p>I'm a Java Developer who started my career a little over a year ago. I'm currently pursuing a degree in Systems Analysis and Development and working professionally with Java. Most of my time is dedicated to studying Spring Boot and exploring how to create my own libraries. I value writing clean, readable code and building applications with a well-structured architecture.</p>
+<p>I'm a Java Developer who started my career a over a year ago. I'm currently pursuing a degree in Systems Analysis and Development and working professionally with Java. Most of my time is dedicated to studying Spring Boot and exploring how to create my own libraries. I value writing clean, readable code and building applications with a well-structured architecture.</p>
 
 ## Professional Overview💻
 <p>Specializing in creating web solutions using Java, the JSF (Java Server Faces) framework for user interfaces, PostgreSQL for databases and Tailwind CSS for styling.</p>
@@ -59,5 +59,5 @@
 
 ## GitHub Stats📈
 <p>
-<img alt="Top Linguagens" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRibeiro&size_weight=0&count_weight=1&theme=highcontrast&show_owner=true&hide=css,html&layout=donut" />
+<img alt="Top Linguagens" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRibeiro&size_weight=1&count_weight=1&theme=highcontrast&show_owner=true&hide=css,html&layout=donut" />
 </p>
