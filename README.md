@@ -56,8 +56,3 @@
     </td>
   </tr>
 </table>
-
-## GitHub Stats📈
-<p>
-<img alt="Top Linguagens" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMRibeiro&size_weight=1&count_weight=1&theme=highcontrast&show_owner=true&hide=css,html&layout=donut" />
-</p>
